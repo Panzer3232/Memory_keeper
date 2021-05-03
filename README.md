@@ -1,4 +1,4 @@
-# Memory_keeper
+# Memory Keeper is a MERN stack application 
 
 <img src="images/intial_page.png">
 <img src="images/Signup.png">
