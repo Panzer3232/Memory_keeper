@@ -11,7 +11,7 @@
  SignUp Form to create account.
  
 <img src="images/sign_in.png">
- SignIn form 
+ SignIn Form 
  
 <img src="images/main_page.png">
  Main page after login , as you can see a user can only edit or delete his/her own post but can like/unlike others post.
